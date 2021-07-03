@@ -6,7 +6,7 @@
 
 **Marital status:** Single
 
-## CONTACT
+## Contact
 
 **Phone number:** +375(44)758-17-35
 
@@ -14,11 +14,11 @@
 
 **Email:** pasynkova.anastasiya@gmail.com
 
-## OBJECTIVE
+## Objective
 
 I am seeking employment with a company where I can use my ability to communicate with people and take advantage of my knowledge of website development (front-end).
 
-## EDUCATION
+## Education
 
 **Information technology software**
 
@@ -28,7 +28,7 @@ Social and humanities college | 2019
 
 Belarusian state University of Informatics and Radioelectronics | 2022
 
-## WORK EXPERIENCE
+## Work experience
 
 **Organization:** Belgazprombank
 
@@ -40,7 +40,7 @@ Belarusian state University of Informatics and Radioelectronics | 2022
 
 **Work experience:** 4 months
 
-## Hard Skills
+## Hard skills
 * HTML5
 * CSS3
 * Bootstrap
@@ -49,7 +49,7 @@ Belarusian state University of Informatics and Radioelectronics | 2022
 * C#
 * SQL
 
-## Soft Skills
+## Soft skills
 * Interpersonal skills
 * Collaboration
 * Problem solving

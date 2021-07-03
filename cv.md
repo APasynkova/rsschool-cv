@@ -54,3 +54,6 @@ Belarusian state University of Informatics and Radioelectronics | 2022
 * Collaboration
 * Problem solving
 * Responsibility
+
+## Level of English
+Pre-Intermediate (A2)

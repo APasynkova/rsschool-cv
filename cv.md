@@ -14,3 +14,7 @@
 **Telegram:** @APasynkova
 
 **Email:** pasynkova.anastasiya@gmail.com
+
+## OBJECTIVE
+***
+I am seeking employment with a company where I can use my ability to communicate with people and take advantage of my knowledge of website development (front-end).

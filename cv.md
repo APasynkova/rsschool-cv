@@ -32,7 +32,11 @@ Belarusian state University of Informatics and Radioelectronics | 2022
 ## WORK EXPERIENCE
 ***
 **Organization:** Belgazprombank
+
 **Position:** Specialist
+
 **Management:** Management of processing and transactional systems
+
 **Department:** Department of Information Technologies
+
 **Work experience:** 4 months

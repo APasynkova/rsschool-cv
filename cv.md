@@ -48,3 +48,9 @@ Belarusian state University of Informatics and Radioelectronics | 2022
 * LESS/Sass
 * C#
 * SQL
+
+## Soft Skills
+* Interpersonal skills
+* Collaboration
+* Problem solving
+* Responsibility

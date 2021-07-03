@@ -1,5 +1,4 @@
 ## Personal information
-***
 
 **Name:** Anastasiya Pasynkova
 
@@ -8,7 +7,7 @@
 **Marital status:** Single
 
 ## CONTACT
-***
+
 **Phone number:** +375(44)758-17-35
 
 **Telegram:** @APasynkova
@@ -16,11 +15,11 @@
 **Email:** pasynkova.anastasiya@gmail.com
 
 ## OBJECTIVE
-***
+
 I am seeking employment with a company where I can use my ability to communicate with people and take advantage of my knowledge of website development (front-end).
 
 ## EDUCATION
-***
+
 **Information technology software**
 
 Social and humanities college | 2019
@@ -30,7 +29,7 @@ Social and humanities college | 2019
 Belarusian state University of Informatics and Radioelectronics | 2022
 
 ## WORK EXPERIENCE
-***
+
 **Organization:** Belgazprombank
 
 **Position:** Specialist
@@ -40,3 +39,12 @@ Belarusian state University of Informatics and Radioelectronics | 2022
 **Department:** Department of Information Technologies
 
 **Work experience:** 4 months
+
+## Hard Skills
+* HTML5
+* CSS3
+* Bootstrap
+* Javascript
+* LESS/Sass
+* C#
+* SQL

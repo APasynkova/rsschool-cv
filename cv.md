@@ -18,3 +18,11 @@
 ## OBJECTIVE
 ***
 I am seeking employment with a company where I can use my ability to communicate with people and take advantage of my knowledge of website development (front-end).
+
+## EDUCATION
+***
+**Information technology software**
+Social and humanities college | 2019
+
+**Professional training (computer science)**
+Belarusian state University of Informatics and Radioelectronics | 2022

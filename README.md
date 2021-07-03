@@ -1,1 +1,1 @@
-# rsschool-cv
+https://APasynkova.github.io/rsschool-cv/cv

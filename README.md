@@ -1,1 +1,0 @@
-https://APasynkova.github.io/rsschool-cv/cv

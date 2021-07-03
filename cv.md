@@ -21,10 +21,10 @@ I am seeking employment with a company where I can use my ability to communicate
 
 ## EDUCATION
 ***
-* **Information technology software**
+**Information technology software**
 
 Social and humanities college | 2019
 
-* **Professional training (computer science)**
+**Professional training (computer science)**
 
 Belarusian state University of Informatics and Radioelectronics | 2022

@@ -2,3 +2,38 @@
     margin: 0;
     padding: 0;
 }
+
+.wrapper {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.header {
+    width: 100%;
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    background-color: #373741;    
+}
+.header_photo {
+    width: 35%;
+    display: flex;
+    justify-content: center;
+}
+.person_photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: url(../img/A.Pasynkova.jpg) center center/cover no-repeat;
+}
+.header_info {
+    width: 65%;
+    color: #fff;
+}
+.header_info h1 {
+    font-size: 40px;
+}
+.header_info_position {
+    font-size: 25px;
+    margin-top: 10px;
+}

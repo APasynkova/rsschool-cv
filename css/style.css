@@ -49,3 +49,17 @@ main {
 .second_column {
     width: 65%;
 }
+.section_heading {
+    width: 70%;
+    margin: 5% 10%;
+    padding: 15px;
+    color: #fff;
+    background-color: #373741;
+}
+.section_heading h2 {
+    font-size: 25px;
+}
+.section_desc {
+    width: 80%;
+    margin-left: 10%;
+}

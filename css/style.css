@@ -37,3 +37,15 @@
     font-size: 25px;
     margin-top: 10px;
 }
+
+main {
+    display: flex;
+}
+
+.first_column {
+    width: 35%;
+    background-color: #e1d8cf;
+}
+.second_column {
+    width: 65%;
+}

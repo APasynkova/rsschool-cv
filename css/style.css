@@ -71,6 +71,9 @@ main {
     width: 80%;
     margin-left: 10%;
 }
+.section_desc span {
+    margin-right: 7px;
+}
 
 footer {
     height: 80px;
